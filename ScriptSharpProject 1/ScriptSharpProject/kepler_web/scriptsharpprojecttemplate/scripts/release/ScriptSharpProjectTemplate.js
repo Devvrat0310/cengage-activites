@@ -1,0 +1,7 @@
+// ScriptSharpProjectTemplate.js
+(function(){
+Type.registerNamespace('Kepler.ScriptSharpProjectTemplate');Kepler.ScriptSharpProjectTemplate.Class1=function(){this.$4();this.$3();}
+Kepler.ScriptSharpProjectTemplate.Class1.prototype={_elmDiv:null,_box2:null,_box3:null,$0:function($p0){$p0.preventDefault();},$1:function($p0){$p0.target.appendChild(this._elmDiv);},$2:function($p0){},$3:function(){this._elmDiv.addEventListener('dragstart',ss.Delegate.create(this,this.$2),false);this._box2.addEventListener('dragover',ss.Delegate.create(this,this.$0),false);this._box3.addEventListener('dragover',ss.Delegate.create(this,this.$0),false);this._box2.addEventListener('drop',ss.Delegate.create(this,this.$1),false);this._box3.addEventListener('drop',ss.Delegate.create(this,this.$1),false);},$4:function(){this._elmDiv=document.createElement('div');this._elmDiv.setAttribute('class','box1');this._elmDiv.setAttribute('draggable','true');document.body.appendChild(this._elmDiv);this._box2=document.createElement('div');this._box2.setAttribute('class','box2');document.body.appendChild(this._box2);this._box3=document.createElement('div');this._box3.setAttribute('class','box3');document.body.appendChild(this._box3);}}
+Kepler.ScriptSharpProjectTemplate.Class1.registerClass('Kepler.ScriptSharpProjectTemplate.Class1');(function(){$(function(){
+new Kepler.ScriptSharpProjectTemplate.Class1();});})();
+})();// This script was generated using Script# v0.7.4.0

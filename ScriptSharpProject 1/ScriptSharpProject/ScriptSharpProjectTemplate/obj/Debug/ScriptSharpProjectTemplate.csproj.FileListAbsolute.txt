@@ -1,0 +1,16 @@
+D:\ScriptSharpTemplate\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.csproj.AssemblyReference.cache
+D:\ScriptSharpTemplate\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.csproj.CoreCompileInputs.cache
+D:\ScriptSharpTemplate\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.dll
+D:\ScriptSharpTemplate\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.pdb
+C:\Users\Ashish.jaiswal\Downloads\drag_and_drop_scriptsharp_project\drag and drop\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Ashish.jaiswal\Downloads\drag_and_drop_scriptsharp_project\drag and drop\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.dll
+C:\Users\Ashish.jaiswal\Downloads\drag_and_drop_scriptsharp_project\drag and drop\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.pdb
+C:\Users\vishal.kamtam\Downloads\scriptsharp_template\ScriptSharpProject\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.csprojResolveAssemblyReference.cache
+C:\Users\vishal.kamtam\Downloads\scriptsharp_template\ScriptSharpProject\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.dll
+C:\Users\vishal.kamtam\Downloads\scriptsharp_template\ScriptSharpProject\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.pdb
+C:\Users\vishal.kamtam\Desktop\ScriptSharpProject\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.csprojResolveAssemblyReference.cache
+C:\Users\vishal.kamtam\Desktop\ScriptSharpProject\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.dll
+C:\Users\vishal.kamtam\Desktop\ScriptSharpProject\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.pdb
+C:\Users\devvrat.singh\Downloads\ScriptSharpProject 1\ScriptSharpProject\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.csprojResolveAssemblyReference.cache
+C:\Users\devvrat.singh\Downloads\ScriptSharpProject 1\ScriptSharpProject\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.dll
+C:\Users\devvrat.singh\Downloads\ScriptSharpProject 1\ScriptSharpProject\ScriptSharpProjectTemplate\obj\Debug\ScriptSharpProjectTemplate.pdb

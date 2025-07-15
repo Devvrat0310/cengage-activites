@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.box1 {
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  background: #26bd21;
+  margin: 50px;
+  display: inline-block;
+}
+
+.box2,
+.box3 {
+  cursor: pointer;
+  width: 150px;
+  height: 250px;
+  background: blue;
+  margin: 20px auto;
+}
+
+
+
+
+/* .box1{
+    width: 40px;
+    height: 40px;
+    background: #97bd21;
+    position: absolute;
+    top: 50%;
+    margin: auto 50px;
+} */
+/* width: 150px;
+height: 250px;
+background: blue; */

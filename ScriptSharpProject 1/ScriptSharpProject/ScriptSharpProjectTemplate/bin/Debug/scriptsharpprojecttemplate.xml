@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ScriptSharpProjectTemplate</name>
+    </assembly>
+    <members>
+        <member name="M:Kepler.ScriptSharpProjectTemplate.Init.#cctor">
+            <summary>
+            To be loaded when the document is ready: Loading the XML
+            </summary>
+        </member>
+    </members>
+</doc>
